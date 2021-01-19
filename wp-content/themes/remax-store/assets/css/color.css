@@ -1,0 +1,85 @@
+/*=============================================
+			th-btn
+=============================================*/
+.th-btn{
+    padding: 12px 30px;
+    text-transform: capitalize;
+    color: #fff;
+    display: inline-block;
+    border: none;
+    font-size: 15px;
+    border-radius: 0;
+    transition: .5s;
+}
+.single_add_to_cart_button,
+.yith-wcwl-add-to-wishlist,
+.yith-wcwl-add-to-wishlist,
+.compare {
+    background: #000;
+}
+.single_add_to_cart_button:hover,
+.yith-wcwl-add-to-wishlist:hover,
+.yith-wcwl-add-to-wishlist:hover,
+.compare:hover {
+    transition: .5s;
+    background: #000;
+}
+.th-btn:hover {
+    background: #fff;
+}
+/*=============================================
+			Background Color
+=============================================*/
+.th-header {
+    background: #f6f6f6;
+}
+
+/*=============================================
+			Text Color
+=============================================*/
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a,
+h1, h2, h3, h4, h5, h6,
+.th-active,
+.th-footer .ht-copyright a,
+.th-footer .site-info {
+    color: #6b6c6e;
+}
+
+.th-search-section i,
+.th-wishlist-items i,
+.th-header-cart-section,
+.th-homepage-hotdeal,
+.th-bottom-footer span.product-title,
+.th-bottom-footer span.woocommerce-Price-amount,
+.site-info,
+.site-info a,
+h2.widget-title,
+.yith-wcwl-add-button,
+a.add_to_wishlist,
+.yith-wcwl-wishlistexistsbrowse.show a {
+    color: #fff;
+}
+.th-logo-color {
+    color: #eb6e1a;
+}
+
+/*=============================================
+			Border-bottom
+=============================================*/
+.th-navigation li {
+    border-bottom: 1px #6b6c6e solid;
+}
+
+/*=============================================
+			Border-both-side
+=============================================*/
+.th-btn {
+    border: 1px #fff solid;
+}
+/*=============================================
+			text-transform
+=============================================*/
+.th-description h1 {
+    text-transform: uppercase;
+    font-weight: 600;
+}

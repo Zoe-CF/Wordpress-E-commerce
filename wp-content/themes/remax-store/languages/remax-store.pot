@@ -1,0 +1,723 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Remax Store\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-10 08:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.0"
+
+#: themerelic/core/extras.php:772
+msgid " items"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: themerelic/inc/template-tags.php:67
+msgid ", "
+msgstr ""
+
+#: themerelic/customizer/panels/woocommerce/archive.php:57
+msgid "1 column"
+msgstr ""
+
+#: themerelic/customizer/panels/woocommerce/archive.php:58
+msgid "2 columns"
+msgstr ""
+
+#: themerelic/customizer/panels/woocommerce/archive.php:59
+msgid "3 columns"
+msgstr ""
+
+#: themerelic/customizer/panels/woocommerce/archive.php:60
+msgid "4 columns"
+msgstr ""
+
+#: themerelic/core/extras.php:463
+msgid "<"
+msgstr ""
+
+#: themerelic/core/extras.php:464
+msgid ">"
+msgstr ""
+
+#: themerelic/customizer/custom-controls/repeater/class-control-repeater.php:458
+#: themerelic/customizer/custom-controls/repeater/class-control-repeater.php:462
+msgid "Add File"
+msgstr ""
+
+#: themerelic/customizer/custom-controls/repeater/class-control-repeater.php:422
+#: themerelic/customizer/custom-controls/repeater/class-control-repeater.php:426
+msgid "Add Image"
+msgstr ""
+
+#: themerelic/customizer/custom-controls/repeater/class-control-repeater.php:82
+#, php-format
+msgid "Add new %s"
+msgstr ""
+
+#: themerelic/hooks/woocommerce.php:680
+msgid "Add to Compare"
+msgstr ""
+
+#: themerelic/core/class-register-widget.php:32
+#: themerelic/core/class-register-widget.php:48
+#: themerelic/core/class-register-widget.php:64
+#: themerelic/core/class-register-widget.php:79
+msgid "Add widgets here."
+msgstr ""
+
+#: themerelic/customizer/panels/home/blog.php:47
+msgid "all"
+msgstr ""
+
+#: themerelic/customizer/panels/general/archive.php:11
+msgid "Archive & Blog Page"
+msgstr ""
+
+#: themerelic/core/extras.php:408 themerelic/core/extras.php:409
+#: themerelic/core/extras.php:410
+#, php-format
+msgid "Archive for %s"
+msgstr ""
+
+#: themerelic/core/extras.php:411
+msgid "Author Archive"
+msgstr ""
+
+#: themerelic/customizer/panels/home/hot-offer.php:44
+msgid "Background Images"
+msgstr ""
+
+#: themerelic/customizer/panels/home/products-section.php:35
+#: themerelic/customizer/panels/home/products-section.php:57
+msgid "BEST SELLING PRODUCT"
+msgstr ""
+
+#: themerelic/core/extras.php:425 themerelic/customizer/panels/home/sort.php:89
+msgid "Blog"
+msgstr ""
+
+#: themerelic/core/extras.php:412
+msgid "Blog Archives"
+msgstr ""
+
+#: themerelic/customizer/panels/home/blog.php:31
+msgid "Blog Header Title"
+msgstr ""
+
+#: themerelic/customizer/panels/home/blog.php:103
+msgid "Blog Post Structure"
+msgstr ""
+
+#: themerelic/customizer/panels/home/blog.php:12
+msgid "Blog Section"
+msgstr ""
+
+#: themerelic/hooks/woocommerce.php:819
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""
+
+#: themerelic/customizer/panels/general/breadcrumb.php:11
+msgid "Breadcrumb Settings"
+msgstr ""
+
+#: themerelic/customizer/panels/home/blog.php:106
+msgid "Category"
+msgstr ""
+
+#: themerelic/customizer/custom-controls/repeater/class-control-repeater.php:458
+#: themerelic/customizer/custom-controls/repeater/class-control-repeater.php:460
+msgid "Change File"
+msgstr ""
+
+#: themerelic/customizer/custom-controls/repeater/class-control-repeater.php:422
+#: themerelic/customizer/custom-controls/repeater/class-control-repeater.php:424
+msgid "Change Image"
+msgstr ""
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:46
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: themerelic/hooks/woocommerce.php:676
+msgid "Compare"
+msgstr ""
+
+#: themerelic/core/common-functions.php:135
+msgid "Contact Form 7"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: themerelic/template-parts/content.php:48
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: themerelic/customizer/panels/general/breadcrumb.php:30
+msgid "Disable Breadcrumb"
+msgstr ""
+
+#: themerelic/customizer/panels/footer/footer-general.php:50
+msgid "Disable Footer Social Media"
+msgstr ""
+
+#: themerelic/customizer/panels/footer/footer-general.php:27
+msgid "Disable Menu Social Media"
+msgstr ""
+
+#: themerelic/customizer/panels/woocommerce/single.php:33
+msgid "Disable Products Social Share"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: themerelic/inc/template-tags.php:104
+#: themerelic/template-parts/content-page.php:43
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: themerelic/customizer/panels/general/breadcrumb.php:31
+msgid "Enable/Disable Breadcrumb Sections."
+msgstr ""
+
+#: themerelic/customizer/panels/woocommerce/single.php:34
+msgid "Enable/Disable Social Share."
+msgstr ""
+
+#: themerelic/customizer/panels/general/archive.php:30
+msgid "Excerpt limit(word)"
+msgstr ""
+
+#: themerelic/customizer/panels/footer/footer-general.php:67
+msgid "Facebook URL"
+msgstr ""
+
+#: themerelic/core/class-register-widget.php:46
+msgid "Footer First"
+msgstr ""
+
+#: themerelic/core/class-register-widget.php:62
+msgid "Footer Second"
+msgstr ""
+
+#: themerelic/customizer/panels/footer.php:12
+msgid "Footer Social Settings"
+msgstr ""
+
+#: themerelic/core/class-register-widget.php:77
+msgid "Footer Third"
+msgstr ""
+
+#: themerelic/customizer/panels/home.php:11
+msgid "Front Page Settings"
+msgstr ""
+
+#. Name of the template
+msgid "Front Page Template"
+msgstr ""
+
+#: themerelic/customizer/panels/general/post-layout.php:34
+msgid "Full Width"
+msgstr ""
+
+#: themerelic/customizer/panels/general.php:11
+msgid "General Settings"
+msgstr ""
+
+#: themerelic/customizer/panels/footer/footer-general.php:142
+msgid "Google Plus URL"
+msgstr ""
+
+#: themerelic/customizer/custom-controls/repeater/class-control-repeater.php:386
+msgid "Hex Value"
+msgstr ""
+
+#: themerelic/core/extras.php:390 themerelic/core/extras.php:422
+msgid "Home"
+msgstr ""
+
+#: themerelic/customizer/panels/home/sort.php:32
+msgid "Homepage Sort Sections"
+msgstr ""
+
+#: themerelic/customizer/panels/home/sort.php:87
+#: themerelic/customizer/panels/home/hot-offer.php:13
+msgid "Hot Offer"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://themerelic.com"
+msgstr ""
+
+#: themerelic/customizer/panels/footer/footer-general.php:60
+msgid "https://facebook.com/"
+msgstr ""
+
+#: themerelic/customizer/panels/footer/footer-general.php:116
+msgid "https://instagram.com/"
+msgstr ""
+
+#: themerelic/customizer/panels/footer/footer-general.php:134
+msgid "https://plus.google.com"
+msgstr ""
+
+#. URI of the theme
+msgid "https://themerelic.com/wordpress-themes/remax-store/"
+msgstr ""
+
+#: themerelic/customizer/panels/footer/footer-general.php:77
+msgid "https://twitter.com/"
+msgstr ""
+
+#: themerelic/core/extras.php:294
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: themerelic/customizer/panels/footer/footer-general.php:96
+msgid "https://youtube.com/"
+msgstr ""
+
+#: themerelic/customizer/panels/footer/footer-general.php:124
+msgid "Instagram URL"
+msgstr ""
+
+#: themerelic/template-parts/content-404.php:20
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: themerelic/template-parts/content-none.php:48
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. %s: post title
+#: themerelic/inc/template-tags.php:87
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: themerelic/customizer/panels/general/post-layout.php:32
+msgid "Left Sidebar"
+msgstr ""
+
+#: themerelic/core/extras.php:1160
+#: themerelic/customizer/panels/home/blog.php:22
+msgid "LETEST NEWS"
+msgstr ""
+
+#: themerelic/customizer/custom-controls/repeater/class-control-repeater.php:239
+#, php-format
+msgid "Limit: %s rows"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: themerelic/inc/template-tags.php:74
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: themerelic/core/extras.php:602
+#: themerelic/customizer/panels/home/slider.php:30
+#: themerelic/customizer/panels/home/slider.php:59
+msgid ""
+"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+msgstr ""
+
+#: themerelic/customizer/panels/home/blog.php:108
+msgid "Meta"
+msgstr ""
+
+#: themerelic/core/extras.php:601
+#: themerelic/customizer/panels/home/slider.php:29
+#: themerelic/customizer/panels/home/slider.php:54
+msgid "New Arrivals"
+msgstr ""
+
+#: themerelic/customizer/custom-controls/repeater/class-control-repeater.php:447
+#: themerelic/customizer/custom-controls/repeater/class-control-repeater.php:452
+msgid "No File Selected"
+msgstr ""
+
+#: themerelic/customizer/custom-controls/repeater/class-control-repeater.php:411
+#: themerelic/customizer/custom-controls/repeater/class-control-repeater.php:416
+msgid "No Image Selected"
+msgstr ""
+
+#: themerelic/template-parts/content-none.php:18
+msgid "Nothing Found"
+msgstr ""
+
+#: themerelic/customizer/panels/general/archive.php:31
+msgid "Number of excerpt limit word."
+msgstr ""
+
+#: themerelic/customizer/panels/home/blog.php:78
+msgid "Number of Post"
+msgstr ""
+
+#: themerelic/customizer/panels/home/blog.php:79
+msgid "Number of post display for display"
+msgstr ""
+
+#: themerelic/customizer/panels/home/products-tabs.php:54
+msgid "Number of Products"
+msgstr ""
+
+#: themerelic/customizer/panels/woocommerce/archive.php:32
+msgid "Number of products"
+msgstr ""
+
+#: themerelic/customizer/panels/home/products-tabs.php:55
+msgid "Number of products display on tab section."
+msgstr ""
+
+#: themerelic/customizer/panels/woocommerce/archive.php:33
+msgid "Number of products in shop page."
+msgstr ""
+
+#: themerelic/customizer/panels/woocommerce/single.php:53
+#: themerelic/customizer/panels/woocommerce/single.php:54
+msgid "Number of related products"
+msgstr ""
+
+#: themerelic/customizer/panels/woocommerce/single.php:73
+msgid "Number of related products columns."
+msgstr ""
+
+#. 1: title.
+#: comments.php:40
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: themerelic/template-parts/content-404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: themerelic/template-parts/content-page.php:30
+#: themerelic/template-parts/content.php:66
+msgid "Pages:"
+msgstr ""
+
+#. %s: post author.
+#: themerelic/inc/template-tags.php:50
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. %s: post date.
+#: themerelic/inc/template-tags.php:34
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: themerelic/customizer/panels/general/post-layout.php:28
+msgid "Post Sidebar Layout"
+msgstr ""
+
+#. 1: list of categories.
+#: themerelic/inc/template-tags.php:70
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: themerelic/core/class-remax-store-after-setup-theme.php:115
+msgid "Primary"
+msgstr ""
+
+#: themerelic/customizer/panels/home/products-section.php:58
+msgid "Product Section Title"
+msgstr ""
+
+#: themerelic/customizer/panels/home/sort.php:86
+#: themerelic/customizer/panels/home/products-section.php:62
+#: themerelic/customizer/panels/home/product-categories.php:12
+#: themerelic/customizer/panels/home/product-categories.php:33
+msgid "Products Category"
+msgstr ""
+
+#: themerelic/customizer/panels/woocommerce/archive.php:53
+msgid "Products Columns"
+msgstr ""
+
+#: themerelic/customizer/panels/home/products-section.php:68
+msgid "Products Count"
+msgstr ""
+
+#: themerelic/customizer/panels/home/products-section.php:74
+msgid "Products Section"
+msgstr ""
+
+#: themerelic/customizer/panels/home/products-section.php:53
+msgid "Products Section "
+msgstr ""
+
+#: themerelic/customizer/panels/home/products-section.php:17
+msgid "Products Sections"
+msgstr ""
+
+#: themerelic/customizer/panels/home/products-tabs.php:35
+msgid "Products Tab Category"
+msgstr ""
+
+#: themerelic/customizer/panels/home/products-tabs.php:13
+#: themerelic/customizer/panels/home/sort.php:88
+msgid "Products Tabs"
+msgstr ""
+
+#. %s: CMS name, i.e. WordPress.
+#: themerelic/core/extras.php:297
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: themerelic/template-parts/content-none.php:28
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: themerelic/customizer/panels/woocommerce/single.php:72
+msgid "Related Products Columns"
+msgstr ""
+
+#. Name of the theme
+msgid "Remax Store"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Remax Store is modern, clean, colorful and responsive store theme. It can be "
+"used for all kinds of online store, blogs, informative, news and other "
+"creative websites. It uses an amazing WordPress Customizer for theme options."
+" It comes with an eye-catching layout design that will instantly draw the "
+"attention of anyone who visits your website. The theme is translation ready. "
+"The Theme Customizer is truly a magic tool to customize the theme with pre-"
+"defined parameters, no coding is required. The main theme features: left "
+"side sticky menu, search, shop by category, right sidebars, custom logo, "
+"custom background, breadcrumbs, fast loading, cross-browser compatibility, "
+"font-awesome, documentation, support, bootstrap grid layout. Theme support "
+"for wishlist, quick view and compare plugins with woocommerce plugins. Demo: "
+"http://demo.themerelic.com/remax-store/ Details: https://themerelic."
+"com/wordpress-themes/remax-store/"
+msgstr ""
+
+#: themerelic/customizer/panels/general/post-layout.php:22
+msgid "remax-store-right-sidebar"
+msgstr ""
+
+#: themerelic/customizer/custom-controls/repeater/class-control-repeater.php:421
+#: themerelic/customizer/custom-controls/repeater/class-control-repeater.php:486
+msgid "Remove"
+msgstr ""
+
+#: themerelic/core/class-register-widget.php:30
+#: themerelic/customizer/panels/general/post-layout.php:33
+msgid "Right Sidebar"
+msgstr ""
+
+#: themerelic/customizer/custom-controls/repeater/class-control-repeater.php:74
+msgid "row"
+msgstr ""
+
+#: themerelic/core/extras.php:413
+msgid "Search Results"
+msgstr ""
+
+#. 1: search string
+#: themerelic/core/common-functions.php:76
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: themerelic/customizer/panels/home/hot-offer.php:29
+msgid "Select Category"
+msgstr ""
+
+#: themerelic/customizer/panels/home/blog.php:55
+msgid "Select Post Category"
+msgstr ""
+
+#: themerelic/customizer/panels/home/product-categories.php:34
+msgid "Select products category section."
+msgstr ""
+
+#: themerelic/customizer/panels/home/products-tabs.php:36
+msgid "Select products tab section categories."
+msgstr ""
+
+#: themerelic/customizer/panels/home/blog.php:56
+msgid "Select the post category."
+msgstr ""
+
+#: themerelic/hooks/woocommerce.php:465
+msgid "Share This :"
+msgstr ""
+
+#: themerelic/customizer/panels/woocommerce/archive.php:13
+msgid "Shop & Archive Page"
+msgstr ""
+
+#: themerelic/core/extras.php:604 themerelic/core/extras.php:866
+#: themerelic/customizer/panels/home/slider.php:32
+#: themerelic/customizer/panels/home/slider.php:64
+msgid "Shop Now"
+msgstr ""
+
+#: themerelic/customizer/panels/general/post-layout.php:12
+msgid "Sidebar Layout"
+msgstr ""
+
+#: themerelic/customizer/panels/woocommerce/single.php:14
+msgid "Single Page Settings"
+msgstr ""
+
+#: header.php:32
+msgid "Skip to content"
+msgstr ""
+
+#: themerelic/customizer/panels/home/sort.php:85
+msgid "Slider"
+msgstr ""
+
+#: themerelic/customizer/panels/home/slider.php:50
+msgid "Slider Add"
+msgstr ""
+
+#: themerelic/customizer/panels/home/slider.php:65
+msgid "Slider Buttom Text"
+msgstr ""
+
+#: themerelic/customizer/panels/home/slider.php:69
+msgid "Slider Button Links"
+msgstr ""
+
+#: themerelic/customizer/panels/home/slider.php:73
+msgid "Slider Image Upload"
+msgstr ""
+
+#: themerelic/customizer/panels/home/slider.php:78
+msgid "Slider Item"
+msgstr ""
+
+#: themerelic/customizer/panels/home/slider.php:13
+msgid "Slider Settings"
+msgstr ""
+
+#: themerelic/customizer/panels/home/slider.php:55
+msgid "Slider Short Text"
+msgstr ""
+
+#: themerelic/customizer/panels/home/slider.php:60
+msgid "Slider Text"
+msgstr ""
+
+#: themerelic/template-parts/content-none.php:41
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: themerelic/customizer/panels/home/sort.php:11
+msgid "Sort Homepage Section"
+msgstr ""
+
+#: themerelic/customizer/panels/home/sort.php:33
+msgid "Sort or toggle home page sections."
+msgstr ""
+
+#. 1: list of tags.
+#: themerelic/inc/template-tags.php:77
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: themerelic/hooks/woocommerce.php:643
+msgid "The product is already in the wishlist!"
+msgstr ""
+
+#. 1: Theme name, 2: Theme author.
+#: themerelic/core/extras.php:304
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#. Author of the theme
+msgid "ThemeRelic"
+msgstr ""
+
+#: themerelic/customizer/panels/home/blog.php:105
+msgid "Thumbnail"
+msgstr ""
+
+#: themerelic/customizer/panels/home/blog.php:107
+msgid "Title"
+msgstr ""
+
+#: themerelic/core/extras.php:33
+msgid "Toggle navigation"
+msgstr ""
+
+#: themerelic/customizer/panels/footer/footer-general.php:85
+msgid "Twitter URL"
+msgstr ""
+
+#: themerelic/core/extras.php:1098 themerelic/core/extras.php:1171
+msgid "View All"
+msgstr ""
+
+#: themerelic/hooks/woocommerce.php:434
+msgid "View your shopping cart"
+msgstr ""
+
+#: themerelic/core/common-functions.php:115
+msgid "WooCommerce"
+msgstr ""
+
+#: themerelic/customizer/panels/woocommerce.php:11
+msgid "Woocommerce"
+msgstr ""
+
+#: themerelic/core/common-functions.php:140
+msgid "WooCommerce Grid / List toggle"
+msgstr ""
+
+#: themerelic/core/common-functions.php:125
+msgid "YITH WooCommerce Compare"
+msgstr ""
+
+#: themerelic/core/common-functions.php:120
+msgid "YITH WooCommerce Quick View"
+msgstr ""
+
+#: themerelic/core/common-functions.php:130
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: themerelic/customizer/panels/footer/footer-general.php:104
+msgid "Youtube URL"
+msgstr ""
