@@ -2,20 +2,21 @@
  
 __Impératif : créer une base de données sur phpmyadmin et copier ce repo dans un dossier puis le déplacer le dans le répertoire "www"__
 
-# Les extensions :
+## Les extensions :
 
-# E-Commerce :
+### E-Commerce :
 Woocommerce 
 
-# SEO :
+#### SEO :
 Yoast SEO
 
-# RGPD : 
+#### RGPD : 
 GDPR Cookie Compliance (CCPA, PIPEDA ready).
 
-# Blog/Commentaire :
+#### Blog/Commentaire :
 Disable Blog & Disable Comments
-Pensez à configurer la suppression des commentaires/blog sur TOUT le site depuis les options du plugin.
+*Pensez à configurer la suppression des commentaires/blog sur TOUT le site depuis les options du plugin.*
 
-# Traduction : 
-Gtranslate Pensez à configurer le bouton et sa position sur le site depuis les options du plugin.
+#### Traduction : 
+Gtranslate
+*Pensez à configurer le bouton et sa position sur le site depuis les options du plugin.*
