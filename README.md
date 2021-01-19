@@ -1,6 +1,6 @@
 # Wordpress E-commerce
  
-__ Impératif : créer une base de données sur phpmyadmin et copier ce repo dans un dossier puis le déplacer le dans le répertoire "www"__
+__Impératif : créer une base de données sur phpmyadmin et copier ce repo dans un dossier puis le déplacer le dans le répertoire "www"__
 
 # Les extensions :
 
