@@ -14,9 +14,9 @@ Yoast SEO
 GDPR Cookie Compliance (CCPA, PIPEDA ready).
 
 #### Blog/Commentaire :
-Disable Blog & Disable Comments####
+Disable Blog & Disable Comments  
 *Pensez à configurer la suppression des commentaires/blog sur TOUT le site depuis les options du plugin.*
 
 #### Traduction : 
-Gtranslate####
+Gtranslate  
 *Pensez à configurer le bouton et sa position sur le site depuis les options du plugin.*
